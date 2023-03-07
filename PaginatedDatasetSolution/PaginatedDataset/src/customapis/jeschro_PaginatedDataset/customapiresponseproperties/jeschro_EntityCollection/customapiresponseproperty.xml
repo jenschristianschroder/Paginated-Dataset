@@ -1,0 +1,11 @@
+<customapiresponseproperty uniquename="jeschro_EntityCollection">
+  <description default="Entity Collection">
+    <label description="Entity Collection" languagecode="1033" />
+  </description>
+  <displayname default="Entity Collection">
+    <label description="Entity Collection" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <name>EntityCollection</name>
+  <type>4</type>
+</customapiresponseproperty>

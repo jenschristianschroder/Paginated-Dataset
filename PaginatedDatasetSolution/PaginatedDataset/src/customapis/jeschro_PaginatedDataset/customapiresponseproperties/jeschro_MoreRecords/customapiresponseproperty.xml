@@ -1,0 +1,11 @@
+<customapiresponseproperty uniquename="jeschro_MoreRecords">
+  <description default="More Records">
+    <label description="More Records" languagecode="1033" />
+  </description>
+  <displayname default="More Records">
+    <label description="More Records" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <name>More Records</name>
+  <type>0</type>
+</customapiresponseproperty>

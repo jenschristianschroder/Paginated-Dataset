@@ -1,0 +1,18 @@
+<customapi uniquename="jeschro_PaginatedDataset">
+  <allowedcustomprocessingsteptype>0</allowedcustomprocessingsteptype>
+  <bindingtype>0</bindingtype>
+  <description default="Paginated Dataset">
+    <label description="Paginated Dataset" languagecode="1033" />
+  </description>
+  <displayname default="Paginated Dataset">
+    <label description="Paginated Dataset" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isfunction>0</isfunction>
+  <isprivate>0</isprivate>
+  <name>PaginatedDataset</name>
+  <plugintypeid>
+    <plugintypeid>be507100-51e9-4a50-80d5-d6a83af6d91f</plugintypeid>
+  </plugintypeid>
+  <workflowsdkstepenabled>0</workflowsdkstepenabled>
+</customapi>

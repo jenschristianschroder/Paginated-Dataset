@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="PaginatedDatasetPlugin, Version=0.1.0.0, Culture=neutral, PublicKeyToken=27260528b4884f8f" PluginAssemblyId="76d63ad4-7451-4e41-ba81-d452821545ed" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/PaginatedDatasetPlugin-76D63AD4-7451-4E41-BA81-D452821545ED/PaginatedDatasetPlugin.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="PaginatedDatasetPlugin.PaginatedDataset, PaginatedDatasetPlugin, Version=0.1.0.0, Culture=neutral, PublicKeyToken=27260528b4884f8f" PluginTypeId="be507100-51e9-4a50-80d5-d6a83af6d91f" Name="PaginatedDatasetPlugin.PaginatedDataset">
+      <FriendlyName>a340ef12-4229-477e-813e-8897112fa304</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>

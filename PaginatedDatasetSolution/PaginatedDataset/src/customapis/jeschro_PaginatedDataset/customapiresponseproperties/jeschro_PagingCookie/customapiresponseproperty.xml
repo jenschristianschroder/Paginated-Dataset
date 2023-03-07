@@ -1,0 +1,11 @@
+<customapiresponseproperty uniquename="jeschro_PagingCookie">
+  <description default="Paging Cookie">
+    <label description="Paging Cookie" languagecode="1033" />
+  </description>
+  <displayname default="Paging Cookie">
+    <label description="Paging Cookie" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <name>PagingCookie</name>
+  <type>10</type>
+</customapiresponseproperty>

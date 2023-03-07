@@ -1,0 +1,12 @@
+<customapirequestparameter uniquename="jeschro_entityName">
+  <description default="EntityName">
+    <label description="EntityName" languagecode="1033" />
+  </description>
+  <displayname default="EntityName">
+    <label description="EntityName" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isoptional>0</isoptional>
+  <name>EntityName</name>
+  <type>10</type>
+</customapirequestparameter>

@@ -1,0 +1,12 @@
+<customapirequestparameter uniquename="jeschro_PageNumber">
+  <description default="Page Number">
+    <label description="Page Number" languagecode="1033" />
+  </description>
+  <displayname default="Page Number">
+    <label description="Page Number" languagecode="1033" />
+  </displayname>
+  <iscustomizable>1</iscustomizable>
+  <isoptional>0</isoptional>
+  <name>PageNumber</name>
+  <type>7</type>
+</customapirequestparameter>

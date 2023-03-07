@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>jeschro_paginateddataset_a8fe4</Name>
+  <AppVersion>2023-03-06T15:06:45Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23023.21.0</CreatedByClientVersion>
+  <MinClientVersion>3.23023.21.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.23023.21","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20230306T140325Z-3.23023.21.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>PaginatedDataset</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"19bc0cda-e64d-4bf9-bb2a-8fae6c1cb26e":{"id":"/providers/microsoft.powerapps/apis/shared_jeschro-5fpaginateddataset-5f01d7fe3dd93342c7","displayName":"PaginatedDataset","iconUri":"https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png","dataSources":["PaginatedDataset"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Query"],"customApiLogicalName":"jeschro_5Fpaginateddataset","isCustomApiSolutionAware":true}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"jeschro_5Fpaginateddataset","componenttype":372,"componenttypeplatformname":"connector"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/jeschro_paginateddataset_a8fe4_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/jeschro_paginateddataset_a8fe4_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
